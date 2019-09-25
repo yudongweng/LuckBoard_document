@@ -70,3 +70,4 @@ https://www.cnblogs.com/mlh1421/p/7ee6796ea67cc46b2504eb5a88613ed9.html //git¶à¸
 https://www.cnblogs.com/roadofstudy/p/7660583.html  //ÉÏ´«±¾µØÎÄ¼şµ½github²Ö¿â»ù±¾²Ù×÷
 https://blog.csdn.net/u012915636/article/details/81978140 //void operator()() const µÄ±à³ÌÊµ¼ù
 https://blog.csdn.net/Raito__/article/details/83340410 //C++ STL ´´½¨Ïß³ÌµÄÈıÖÖ·½Ê½
+https://blog.csdn.net/learn_sunzhuli/article/details/46290077 //QT¶àÏß³Ì¡ªÖ÷½çÃæ¿¨ËÀ½â¾ö·½°¸
