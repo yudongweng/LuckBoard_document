@@ -71,3 +71,4 @@ https://www.cnblogs.com/roadofstudy/p/7660583.html  //上传本地文件到github仓库基
 https://blog.csdn.net/u012915636/article/details/81978140 //void operator()() const 的编程实践
 https://blog.csdn.net/Raito__/article/details/83340410 //C++ STL 创建线程的三种方式
 https://blog.csdn.net/learn_sunzhuli/article/details/46290077 //QT多线程—主界面卡死解决方案
+https://blog.csdn.net/linraise/article/details/41318261 //VS2013添加依赖项
