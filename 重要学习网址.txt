@@ -72,3 +72,4 @@ https://blog.csdn.net/u012915636/article/details/81978140 //void operator()() co
 https://blog.csdn.net/Raito__/article/details/83340410 //C++ STL 创建线程的三种方式
 https://blog.csdn.net/learn_sunzhuli/article/details/46290077 //QT多线程—主界面卡死解决方案
 https://blog.csdn.net/linraise/article/details/41318261 //VS2013添加依赖项
+https://www.runoob.com/cplusplus/cpp-preprocessor.html //c++预处理器
