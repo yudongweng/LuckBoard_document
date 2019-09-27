@@ -74,3 +74,4 @@ https://blog.csdn.net/learn_sunzhuli/article/details/46290077 //QT多线程—主界面
 https://blog.csdn.net/linraise/article/details/41318261 //VS2013添加依赖项
 https://www.runoob.com/cplusplus/cpp-preprocessor.html //c++预处理器
 https://blog.csdn.net/lyztyycode/article/details/81326699 //c++虚函数详解（你肯定懂了）
+https://blog.csdn.net/qq_28234213/article/details/72853797 //C++虚函数实现多态
