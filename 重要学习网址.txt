@@ -73,3 +73,4 @@ https://blog.csdn.net/Raito__/article/details/83340410 //C++ STL ´´½¨Ïß³ÌµÄÈıÖÖ·
 https://blog.csdn.net/learn_sunzhuli/article/details/46290077 //QT¶àÏß³Ì¡ªÖ÷½çÃæ¿¨ËÀ½â¾ö·½°¸
 https://blog.csdn.net/linraise/article/details/41318261 //VS2013Ìí¼ÓÒÀÀµÏî
 https://www.runoob.com/cplusplus/cpp-preprocessor.html //c++Ô¤´¦ÀíÆ÷
+https://blog.csdn.net/lyztyycode/article/details/81326699 //c++Ğéº¯ÊıÏê½â£¨Äã¿Ï¶¨¶®ÁË£©
