@@ -77,4 +77,10 @@ https://blog.csdn.net/lyztyycode/article/details/81326699 //c++Ğéº¯ÊıÏê½â£¨Äã¿Ï¶
 https://blog.csdn.net/qq_28234213/article/details/72853797 //C++Ğéº¯ÊıÊµÏÖ¶àÌ¬
 https://www.cnblogs.com/mingzhang/p/10965691.html  //Êı¾İ¶Î¡¢´úÂë¶Î¡¢¶ÑÕ»¶Î¡¢BSS¶ÎµÄÇø±ğ
 https://blog.csdn.net/coolwriter/article/details/79883253 //C++¶àÏß³Ì£¨Ò»£©threadÀà
-
+https://blog.csdn.net/sky_miange/article/details/68067989 //»»µçÄÔ/ÏµÍ³ºó,,ÈçºÎÍ¬²½githubÉÏÔ­ÓĞµÄÏîÄ¿ÄØ?...linuxÏÂ...
+https://blog.csdn.net/qq_40416052/article/details/82493916 //¡¾C++¡¿¶¯Ì¬ÄÚ´æ·ÖÅäÏê½â£¨new/new[]ºÍdelete/delete[]£©
+https://blog.csdn.net/Up_junior/article/details/100517008 //C++Ğéº¯Êı
+https://blog.csdn.net/qq_40416052/article/details/82493916 //¡¾C++¡¿¶¯Ì¬ÄÚ´æ·ÖÅäÏê½â£¨new/new[]ºÍdelete/delete[]£©
+https://blog.csdn.net/weixin_44893585/article/details/94583069  //c++Ö¸ÕëÊı×é£¬int *£¬char *£¬string *
+https://www.cnblogs.com/jiaoyu121/p/6965230.html  //javascriptË¼Î¬µ¼Í¼
+https://blog.csdn.net/qq_37699336/article/details/78524890 //Ğéº¯ÊıÓë´¿Ğéº¯ÊıµÄÇø±ğ
