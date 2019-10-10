@@ -84,3 +84,4 @@ https://blog.csdn.net/qq_40416052/article/details/82493916 //【C++】动态内存分配
 https://blog.csdn.net/weixin_44893585/article/details/94583069  //c++指针数组，int *，char *，string *
 https://www.cnblogs.com/jiaoyu121/p/6965230.html  //javascript思维导图
 https://blog.csdn.net/qq_37699336/article/details/78524890 //虚函数与纯虚函数的区别
+https://www.runoob.com/cplusplus/cpp-interfaces.html  //C++ 接口（抽象类）
